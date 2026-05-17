@@ -36,6 +36,7 @@ guidelines:
 
 这个 Skill 用于在 Claude Code 中分析公司、行业、产品或概念。使用者可以调用这个 Skill，输入分析目标，Claude 将自动按照定义的框架和理论进行结构化分析，并生成 Markdown 格式的专业报告。
 
+
 ## 分析框架
 
 1. **定义目标**  
